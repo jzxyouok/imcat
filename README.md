@@ -1,14 +1,5 @@
 
 
-* During 2017-04-30 ~ 2017-05-20 
-V3.7 Upgrading...
-
-* 2017-04-30 ~ 2017-05-20 期间 
-V3.7升级中……
-
-
---- --- --- --- --- --- --- --- --- 
-
 ### What is IntimateCat(贴心猫)?
 
 * IntimateCat(贴心猫) is a set of Light weight, free, sharing general PHP web application system!
